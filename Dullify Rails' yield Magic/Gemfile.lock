@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubi (1.10.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  erubi
+
+BUNDLED WITH
+   2.3.12
